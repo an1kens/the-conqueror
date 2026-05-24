@@ -1,0 +1,11 @@
+{
+  "default_score": 0,
+  "pairs": [
+    {"a": "India", "b": "Pakistan", "score": -60},
+    {"a": "India", "b": "China", "score": -55},
+    {"a": "India", "b": "United States", "score": 55},
+    {"a": "Pakistan", "b": "China", "score": 50},
+    {"a": "Pakistan", "b": "United States", "score": -15},
+    {"a": "China", "b": "United States", "score": -50}
+  ]
+}

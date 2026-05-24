@@ -1,0 +1,58 @@
+[
+  {
+    "name": "India",
+    "capital": "Punjab",
+    "flag_image": "india.png",
+    "territories": ["Punjab", "Kashmir", "Rajasthan"],
+    "military_strength": 72,
+    "economic_power": 58,
+    "population": 1400,
+    "stability": 68,
+    "personality_type": "opportunistic",
+    "decision_frequency": 7,
+    "volatility": 0.3,
+    "nuclear": true
+  },
+  {
+    "name": "Pakistan",
+    "capital": "Sindh",
+    "flag_image": "pakistan.png",
+    "territories": ["Sindh", "Khyber", "Balochistan"],
+    "military_strength": 58,
+    "economic_power": 38,
+    "population": 230,
+    "stability": 42,
+    "personality_type": "opportunistic",
+    "decision_frequency": 7,
+    "volatility": 0.65,
+    "nuclear": true
+  },
+  {
+    "name": "China",
+    "capital": "Ladakh",
+    "flag_image": "china.png",
+    "territories": ["Ladakh", "Aksai Chin", "Tibet Plateau"],
+    "military_strength": 80,
+    "economic_power": 78,
+    "population": 1400,
+    "stability": 75,
+    "personality_type": "opportunistic",
+    "decision_frequency": 7,
+    "volatility": 0.25,
+    "nuclear": true
+  },
+  {
+    "name": "United States",
+    "capital": "Washington D.C.",
+    "flag_image": "usa.png",
+    "territories": [],
+    "military_strength": 90,
+    "economic_power": 88,
+    "population": 335,
+    "stability": 80,
+    "personality_type": "diplomatic",
+    "decision_frequency": 14,
+    "volatility": 0.35,
+    "nuclear": true
+  }
+]

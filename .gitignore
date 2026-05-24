@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# Runtime game data
+save.json
+data/gameplay_sessions/*.json
+!data/gameplay_sessions/.gitkeep
+data/analyst_reports/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp

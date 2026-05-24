@@ -1,0 +1,20 @@
+{
+  "id": "global",
+  "balance_tuning_file": "balance_tuning.json",
+  "name": "Global Conquest",
+  "description": "21 powers compete for world control — turn-based weeks, battles with casualties, clear victory or defeat.",
+  "player_country": "United States",
+  "win_control_percent": 0.65,
+  "week_days": 7,
+  "countries_file": "countries.json",
+  "relationships_file": "relationships.json",
+  "map_file": "global_territory_map.json",
+  "geo_scope": "world",
+  "ally_country": "United Kingdom",
+  "ally_short": "UK",
+  "axis_partners": {"China": "Russia", "Russia": "China"},
+  "rival_boost": {"China": 0.58, "Russia": 0.55},
+  "primary_rivals": ["China", "Russia"],
+  "win_on_rivals_eliminated": true,
+  "non_territorial": []
+}

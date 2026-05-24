@@ -1,0 +1,116 @@
+{
+  "scores": [
+    {
+      "player_country": "United States",
+      "territories": 21,
+      "days_survived": 336,
+      "countries_defeated": 8,
+      "won": true,
+      "total_score": 16772
+    },
+    {
+      "player_country": "India",
+      "territories": 5,
+      "days_survived": 84,
+      "countries_defeated": 0,
+      "won": true,
+      "total_score": 10668
+    },
+    {
+      "player_country": "India",
+      "territories": 5,
+      "days_survived": 35,
+      "countries_defeated": 0,
+      "won": true,
+      "total_score": 10570
+    },
+    {
+      "player_country": "India",
+      "territories": 5,
+      "days_survived": 805,
+      "countries_defeated": 5,
+      "won": false,
+      "total_score": 4610
+    },
+    {
+      "player_country": "India",
+      "territories": 5,
+      "days_survived": 805,
+      "countries_defeated": 5,
+      "won": false,
+      "total_score": 4610
+    },
+    {
+      "player_country": "India",
+      "territories": 1,
+      "days_survived": 119,
+      "countries_defeated": 2,
+      "won": false,
+      "total_score": 1338
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 84,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 668
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 84,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 668
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 77,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 654
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 77,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 654
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 56,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 612
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 35,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 570
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 28,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 556
+    },
+    {
+      "player_country": "India",
+      "territories": 0,
+      "days_survived": 21,
+      "countries_defeated": 1,
+      "won": false,
+      "total_score": 542
+    }
+  ]
+}

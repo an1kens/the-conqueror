@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated_at": null,
+  "updated_by": "defaults",
+  "notes": [],
+  "scenario": {
+    "win_control_percent": 0.65
+  },
+  "us_support": {
+    "mil_aid": 3,
+    "eco_aid": 2,
+    "battle_bonus": 1.1,
+    "aid_interval_weeks": 2
+  },
+  "battle": {
+    "defender_home_bonus": 1.12,
+    "wartime_attrition_mult": 1.35
+  },
+  "invasion": {
+    "min_military_at_war": 45
+  },
+  "ai": {
+    "rival_boost_pakistan": 0.55,
+    "rival_boost_china": 0.58,
+    "axis_response_chance": 0.75
+  }
+}

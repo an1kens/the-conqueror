@@ -1,0 +1,18 @@
+{
+  "id": "south_asia",
+  "balance_tuning_file": "balance_tuning.json",
+  "name": "South Asia Flashpoint",
+  "description": "India vs Pakistan and China — turn-based weeks, battles with casualties, clear victory or defeat.",
+  "player_country": "India",
+  "win_control_percent": 0.65,
+  "week_days": 7,
+  "countries_file": "south_asia_countries.json",
+  "relationships_file": "south_asia_relationships.json",
+  "map_file": "south_asia_territory_map.json",
+  "ally_country": "United States",
+  "axis_partners": {"Pakistan": "China", "China": "Pakistan"},
+  "rival_boost": {"Pakistan": 0.55, "China": 0.58},
+  "primary_rivals": ["Pakistan", "China"],
+  "northern_front": true,
+  "non_territorial": ["United States"]
+}

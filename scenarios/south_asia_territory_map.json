@@ -1,0 +1,40 @@
+{
+  "center": {"lat": 30.5, "lon": 76.5},
+  "zoom_scope": {"lat_min": 23, "lat_max": 38, "lon_min": 61, "lon_max": 93},
+  "flags": {
+    "India": {"emoji": "🇮🇳", "url": "https://flagcdn.com/w40/in.png", "color": "#ca8a04"},
+    "Pakistan": {"emoji": "🇵🇰", "url": "https://flagcdn.com/w40/pk.png", "color": "#16a34a"},
+    "China": {"emoji": "🇨🇳", "url": "https://flagcdn.com/w40/cn.png", "color": "#dc2626"},
+    "United States": {"emoji": "🇺🇸", "url": "https://flagcdn.com/w40/us.png", "color": "#2563eb"}
+  },
+  "country_borders": {
+    "India": [
+      [28.4, 68.1], [32.5, 68.5], [35.5, 76.0], [34.0, 80.5], [32.0, 88.0],
+      [28.0, 90.0], [26.5, 88.5], [24.0, 84.0], [22.5, 79.0], [23.0, 72.0],
+      [28.4, 68.1]
+    ],
+    "Pakistan": [
+      [24.0, 61.5], [28.5, 61.8], [32.0, 66.0], [35.0, 71.5], [36.5, 74.0],
+      [34.5, 75.5], [32.0, 73.5], [29.0, 70.0], [25.5, 68.0], [24.0, 64.0],
+      [24.0, 61.5]
+    ],
+    "China": [
+      [32.0, 76.5], [35.0, 78.0], [36.5, 80.0], [35.5, 85.0], [33.0, 92.0],
+      [30.0, 92.5], [28.0, 88.0], [30.5, 82.0], [32.0, 76.5]
+    ]
+  },
+  "territories": {
+    "Punjab": {"lat": 31.2, "lon": 75.3, "home": "India"},
+    "Kashmir": {"lat": 34.1, "lon": 76.8, "home": "India"},
+    "Rajasthan": {"lat": 27.0, "lon": 74.2, "home": "India"},
+    "Sindh": {"lat": 25.8, "lon": 68.4, "home": "Pakistan"},
+    "Khyber": {"lat": 34.0, "lon": 71.8, "home": "Pakistan"},
+    "Balochistan": {"lat": 28.5, "lon": 65.2, "home": "Pakistan"},
+    "Ladakh": {"lat": 34.6, "lon": 78.0, "home": "China"},
+    "Aksai Chin": {"lat": 35.2, "lon": 79.8, "home": "China"},
+    "Tibet Plateau": {"lat": 31.8, "lon": 88.5, "home": "China"}
+  },
+  "diplomatic_markers": {
+    "United States": {"lat": 38.9, "lon": -77.0, "label": "Washington"}
+  }
+}

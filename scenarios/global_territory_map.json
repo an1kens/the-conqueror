@@ -1,0 +1,418 @@
+{
+  "center": {
+    "lat": 20,
+    "lon": 0
+  },
+  "zoom_scope": {
+    "lat_min": -58,
+    "lat_max": 72,
+    "lon_min": -180,
+    "lon_max": 180
+  },
+  "geo_scope": "world",
+  "flags": {
+    "United States": {
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "color": "#2563eb"
+    },
+    "China": {
+      "emoji": "\ud83c\udde8\ud83c\uddf3",
+      "color": "#dc2626"
+    },
+    "Russia": {
+      "emoji": "\ud83c\uddf7\ud83c\uddfa",
+      "color": "#7c3aed"
+    },
+    "India": {
+      "emoji": "\ud83c\uddee\ud83c\uddf3",
+      "color": "#f59e0b"
+    },
+    "United Kingdom": {
+      "emoji": "\ud83c\uddec\ud83c\udde7",
+      "color": "#1e40af"
+    },
+    "France": {
+      "emoji": "\ud83c\uddeb\ud83c\uddf7",
+      "color": "#3b82f6"
+    },
+    "Germany": {
+      "emoji": "\ud83c\udde9\ud83c\uddea",
+      "color": "#4b5563"
+    },
+    "Japan": {
+      "emoji": "\ud83c\uddef\ud83c\uddf5",
+      "color": "#be123c"
+    },
+    "South Korea": {
+      "emoji": "\ud83c\uddf0\ud83c\uddf7",
+      "color": "#0284c7"
+    },
+    "Israel": {
+      "emoji": "\ud83c\uddee\ud83c\uddf1",
+      "color": "#0ea5e9"
+    },
+    "Pakistan": {
+      "emoji": "\ud83c\uddf5\ud83c\uddf0",
+      "color": "#16a34a"
+    },
+    "Iran": {
+      "emoji": "\ud83c\uddee\ud83c\uddf7",
+      "color": "#059669"
+    },
+    "Saudi Arabia": {
+      "emoji": "\ud83c\uddf8\ud83c\udde6",
+      "color": "#15803d"
+    },
+    "Turkey": {
+      "emoji": "\ud83c\uddf9\ud83c\uddf7",
+      "color": "#b91c1c"
+    },
+    "Brazil": {
+      "emoji": "\ud83c\udde7\ud83c\uddf7",
+      "color": "#22c55e"
+    },
+    "North Korea": {
+      "emoji": "\ud83c\uddf0\ud83c\uddf5",
+      "color": "#991b1b"
+    },
+    "Australia": {
+      "emoji": "\ud83c\udde6\ud83c\uddfa",
+      "color": "#0369a1"
+    },
+    "Ukraine": {
+      "emoji": "\ud83c\uddfa\ud83c\udde6",
+      "color": "#eab308"
+    },
+    "South Africa": {
+      "emoji": "\ud83c\uddff\ud83c\udde6",
+      "color": "#ca8a04"
+    },
+    "Indonesia": {
+      "emoji": "\ud83c\uddee\ud83c\udde9",
+      "color": "#e11d48"
+    },
+    "Argentina": {
+      "emoji": "\ud83c\udde6\ud83c\uddf7",
+      "color": "#0ea5e9"
+    }
+  },
+  "country_borders": {},
+  "territories": {
+    "Texas": {
+      "lat": 31.0,
+      "lon": -99.5,
+      "home": "United States"
+    },
+    "California": {
+      "lat": 36.8,
+      "lon": -119.5,
+      "home": "United States"
+    },
+    "New York": {
+      "lat": 42.9,
+      "lon": -75.0,
+      "home": "United States"
+    },
+    "Tibet": {
+      "lat": 31.5,
+      "lon": 88.0,
+      "home": "China"
+    },
+    "Xinjiang": {
+      "lat": 41.5,
+      "lon": 85.5,
+      "home": "China"
+    },
+    "Manchuria": {
+      "lat": 43.5,
+      "lon": 125.0,
+      "home": "China"
+    },
+    "Siberia": {
+      "lat": 62.0,
+      "lon": 105.0,
+      "home": "Russia"
+    },
+    "Kaliningrad": {
+      "lat": 54.7,
+      "lon": 20.5,
+      "home": "Russia"
+    },
+    "Crimea": {
+      "lat": 45.3,
+      "lon": 34.5,
+      "home": "Russia"
+    },
+    "Jammu & Kashmir": {
+      "lat": 34.1,
+      "lon": 76.5,
+      "home": "India"
+    },
+    "Punjab": {
+      "lat": 31.2,
+      "lon": 75.5,
+      "home": "India"
+    },
+    "Gujarat": {
+      "lat": 22.3,
+      "lon": 71.5,
+      "home": "India"
+    },
+    "England": {
+      "lat": 52.4,
+      "lon": -1.5,
+      "home": "United Kingdom"
+    },
+    "Scotland": {
+      "lat": 57.0,
+      "lon": -4.2,
+      "home": "United Kingdom"
+    },
+    "Wales": {
+      "lat": 52.3,
+      "lon": -3.8,
+      "home": "United Kingdom"
+    },
+    "Normandy": {
+      "lat": 49.2,
+      "lon": -0.8,
+      "home": "France"
+    },
+    "Brittany": {
+      "lat": 48.2,
+      "lon": -3.0,
+      "home": "France"
+    },
+    "Provence": {
+      "lat": 43.8,
+      "lon": 5.5,
+      "home": "France"
+    },
+    "Bavaria": {
+      "lat": 48.8,
+      "lon": 11.5,
+      "home": "Germany"
+    },
+    "Saxony": {
+      "lat": 51.1,
+      "lon": 13.4,
+      "home": "Germany"
+    },
+    "Brandenburg": {
+      "lat": 52.5,
+      "lon": 13.4,
+      "home": "Germany"
+    },
+    "Honshu": {
+      "lat": 36.2,
+      "lon": 138.3,
+      "home": "Japan"
+    },
+    "Hokkaido": {
+      "lat": 43.1,
+      "lon": 141.5,
+      "home": "Japan"
+    },
+    "Kyushu": {
+      "lat": 32.8,
+      "lon": 130.8,
+      "home": "Japan"
+    },
+    "Gyeonggi": {
+      "lat": 37.4,
+      "lon": 127.0,
+      "home": "South Korea"
+    },
+    "Busan": {
+      "lat": 35.1,
+      "lon": 129.0,
+      "home": "South Korea"
+    },
+    "Jeju": {
+      "lat": 33.4,
+      "lon": 126.5,
+      "home": "South Korea"
+    },
+    "Negev": {
+      "lat": 30.5,
+      "lon": 34.8,
+      "home": "Israel"
+    },
+    "Galilee": {
+      "lat": 32.8,
+      "lon": 35.3,
+      "home": "Israel"
+    },
+    "West Bank": {
+      "lat": 31.9,
+      "lon": 35.2,
+      "home": "Israel"
+    },
+    "West Punjab": {
+      "lat": 31.5,
+      "lon": 74.0,
+      "home": "Pakistan"
+    },
+    "Sindh": {
+      "lat": 25.8,
+      "lon": 68.4,
+      "home": "Pakistan"
+    },
+    "Balochistan": {
+      "lat": 28.5,
+      "lon": 65.2,
+      "home": "Pakistan"
+    },
+    "Khuzestan": {
+      "lat": 31.3,
+      "lon": 48.7,
+      "home": "Iran"
+    },
+    "Fars": {
+      "lat": 29.5,
+      "lon": 53.0,
+      "home": "Iran"
+    },
+    "Khorasan": {
+      "lat": 36.3,
+      "lon": 59.6,
+      "home": "Iran"
+    },
+    "Hejaz": {
+      "lat": 21.5,
+      "lon": 39.8,
+      "home": "Saudi Arabia"
+    },
+    "Najd": {
+      "lat": 24.0,
+      "lon": 45.0,
+      "home": "Saudi Arabia"
+    },
+    "Eastern Province": {
+      "lat": 25.4,
+      "lon": 49.6,
+      "home": "Saudi Arabia"
+    },
+    "Anatolia": {
+      "lat": 39.0,
+      "lon": 35.0,
+      "home": "Turkey"
+    },
+    "Thrace": {
+      "lat": 41.0,
+      "lon": 27.5,
+      "home": "Turkey"
+    },
+    "Kurdistan": {
+      "lat": 37.5,
+      "lon": 41.0,
+      "home": "Turkey"
+    },
+    "Amazonia": {
+      "lat": -3.5,
+      "lon": -62.0,
+      "home": "Brazil"
+    },
+    "Sao Paulo": {
+      "lat": -23.5,
+      "lon": -46.6,
+      "home": "Brazil"
+    },
+    "Minas Gerais": {
+      "lat": -19.9,
+      "lon": -43.9,
+      "home": "Brazil"
+    },
+    "Pyongan": {
+      "lat": 39.5,
+      "lon": 125.5,
+      "home": "North Korea"
+    },
+    "Hamgyong": {
+      "lat": 40.5,
+      "lon": 128.5,
+      "home": "North Korea"
+    },
+    "Hwanghae": {
+      "lat": 38.5,
+      "lon": 125.5,
+      "home": "North Korea"
+    },
+    "New South Wales": {
+      "lat": -32.5,
+      "lon": 147.0,
+      "home": "Australia"
+    },
+    "Queensland": {
+      "lat": -22.0,
+      "lon": 144.0,
+      "home": "Australia"
+    },
+    "Victoria": {
+      "lat": -37.0,
+      "lon": 145.0,
+      "home": "Australia"
+    },
+    "Donbas": {
+      "lat": 48.0,
+      "lon": 38.0,
+      "home": "Ukraine"
+    },
+    "Kharkiv": {
+      "lat": 49.9,
+      "lon": 36.3,
+      "home": "Ukraine"
+    },
+    "Odessa": {
+      "lat": 46.5,
+      "lon": 30.7,
+      "home": "Ukraine"
+    },
+    "Gauteng": {
+      "lat": -26.2,
+      "lon": 28.0,
+      "home": "South Africa"
+    },
+    "KwaZulu-Natal": {
+      "lat": -29.5,
+      "lon": 31.0,
+      "home": "South Africa"
+    },
+    "Western Cape": {
+      "lat": -33.9,
+      "lon": 18.5,
+      "home": "South Africa"
+    },
+    "Java": {
+      "lat": -7.5,
+      "lon": 110.0,
+      "home": "Indonesia"
+    },
+    "Sumatra": {
+      "lat": 0.5,
+      "lon": 101.5,
+      "home": "Indonesia"
+    },
+    "Borneo": {
+      "lat": -1.0,
+      "lon": 114.0,
+      "home": "Indonesia"
+    },
+    "Patagonia": {
+      "lat": -48.0,
+      "lon": -70.0,
+      "home": "Argentina"
+    },
+    "Pampas": {
+      "lat": -34.6,
+      "lon": -58.4,
+      "home": "Argentina"
+    },
+    "Cordoba": {
+      "lat": -31.4,
+      "lon": -64.2,
+      "home": "Argentina"
+    }
+  },
+  "diplomatic_markers": {}
+}

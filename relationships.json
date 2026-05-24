@@ -1,0 +1,132 @@
+{
+  "default_score": 0,
+  "pairs": [
+    {"a": "United States", "b": "United Kingdom", "score": 85},
+    {"a": "United States", "b": "Australia", "score": 82},
+    {"a": "United States", "b": "Israel", "score": 80},
+    {"a": "United States", "b": "Japan", "score": 78},
+    {"a": "United States", "b": "South Korea", "score": 75},
+    {"a": "United States", "b": "France", "score": 70},
+    {"a": "United States", "b": "Germany", "score": 65},
+    {"a": "United States", "b": "Ukraine", "score": 70},
+    {"a": "United States", "b": "India", "score": 50},
+    {"a": "United States", "b": "Saudi Arabia", "score": 55},
+    {"a": "United States", "b": "Brazil", "score": 40},
+    {"a": "United States", "b": "Argentina", "score": 15},
+    {"a": "United States", "b": "Pakistan", "score": -25},
+    {"a": "United States", "b": "China", "score": -55},
+    {"a": "United States", "b": "Russia", "score": -75},
+    {"a": "United States", "b": "Iran", "score": -85},
+    {"a": "United States", "b": "North Korea", "score": -88},
+
+    {"a": "United Kingdom", "b": "France", "score": 72},
+    {"a": "United Kingdom", "b": "Germany", "score": 68},
+    {"a": "United Kingdom", "b": "Australia", "score": 78},
+    {"a": "United Kingdom", "b": "Ukraine", "score": 65},
+    {"a": "United Kingdom", "b": "Russia", "score": -70},
+    {"a": "United Kingdom", "b": "Iran", "score": -60},
+    {"a": "United Kingdom", "b": "Argentina", "score": -30},
+
+    {"a": "France", "b": "Germany", "score": 75},
+    {"a": "France", "b": "Australia", "score": 55},
+    {"a": "France", "b": "Russia", "score": -60},
+    {"a": "France", "b": "India", "score": 45},
+
+    {"a": "Germany", "b": "France", "score": 75},
+    {"a": "Germany", "b": "Russia", "score": -65},
+    {"a": "Germany", "b": "Ukraine", "score": 60},
+    {"a": "Germany", "b": "Turkey", "score": 30},
+
+    {"a": "Japan", "b": "South Korea", "score": 55},
+    {"a": "Japan", "b": "Australia", "score": 60},
+    {"a": "Japan", "b": "United States", "score": 78},
+    {"a": "Japan", "b": "China", "score": -45},
+    {"a": "Japan", "b": "Russia", "score": -25},
+    {"a": "Japan", "b": "North Korea", "score": -75},
+
+    {"a": "South Korea", "b": "United States", "score": 75},
+    {"a": "South Korea", "b": "North Korea", "score": -92},
+    {"a": "South Korea", "b": "China", "score": -15},
+
+    {"a": "Australia", "b": "United States", "score": 82},
+    {"a": "Australia", "b": "Indonesia", "score": 50},
+    {"a": "Australia", "b": "China", "score": -20},
+    {"a": "Australia", "b": "Japan", "score": 60},
+
+    {"a": "China", "b": "Russia", "score": 45},
+    {"a": "China", "b": "India", "score": -35},
+    {"a": "China", "b": "Pakistan", "score": 55},
+    {"a": "China", "b": "North Korea", "score": 35},
+    {"a": "China", "b": "Iran", "score": 30},
+    {"a": "China", "b": "Australia", "score": -20},
+    {"a": "China", "b": "Japan", "score": -45},
+    {"a": "China", "b": "South Africa", "score": 40},
+    {"a": "China", "b": "Brazil", "score": 25},
+
+    {"a": "Russia", "b": "Ukraine", "score": -95},
+    {"a": "Russia", "b": "India", "score": 50},
+    {"a": "Russia", "b": "Iran", "score": 55},
+    {"a": "Russia", "b": "North Korea", "score": 40},
+    {"a": "Russia", "b": "Turkey", "score": -30},
+    {"a": "Russia", "b": "China", "score": 45},
+
+    {"a": "Ukraine", "b": "Russia", "score": -95},
+    {"a": "Ukraine", "b": "United States", "score": 70},
+    {"a": "Ukraine", "b": "United Kingdom", "score": 65},
+    {"a": "Ukraine", "b": "Germany", "score": 60},
+    {"a": "Ukraine", "b": "France", "score": 58},
+
+    {"a": "India", "b": "Russia", "score": 55},
+    {"a": "India", "b": "Pakistan", "score": -78},
+    {"a": "India", "b": "China", "score": -35},
+    {"a": "India", "b": "Israel", "score": 42},
+    {"a": "India", "b": "United States", "score": 50},
+
+    {"a": "Pakistan", "b": "India", "score": -78},
+    {"a": "Pakistan", "b": "China", "score": 55},
+    {"a": "Pakistan", "b": "United States", "score": -25},
+
+    {"a": "Iran", "b": "United States", "score": -85},
+    {"a": "Iran", "b": "Israel", "score": -92},
+    {"a": "Iran", "b": "Saudi Arabia", "score": -72},
+    {"a": "Iran", "b": "United Kingdom", "score": -60},
+    {"a": "Iran", "b": "Russia", "score": 55},
+    {"a": "Iran", "b": "China", "score": 30},
+
+    {"a": "Israel", "b": "United States", "score": 80},
+    {"a": "Israel", "b": "Iran", "score": -92},
+    {"a": "Israel", "b": "Saudi Arabia", "score": -40},
+    {"a": "Israel", "b": "Turkey", "score": -20},
+    {"a": "Israel", "b": "India", "score": 42},
+
+    {"a": "Saudi Arabia", "b": "United States", "score": 55},
+    {"a": "Saudi Arabia", "b": "United Kingdom", "score": 50},
+    {"a": "Saudi Arabia", "b": "Iran", "score": -72},
+    {"a": "Saudi Arabia", "b": "Israel", "score": -40},
+
+    {"a": "Turkey", "b": "United States", "score": 35},
+    {"a": "Turkey", "b": "Russia", "score": -30},
+    {"a": "Turkey", "b": "Israel", "score": -20},
+    {"a": "Turkey", "b": "Germany", "score": 30},
+
+    {"a": "North Korea", "b": "United States", "score": -88},
+    {"a": "North Korea", "b": "South Korea", "score": -92},
+    {"a": "North Korea", "b": "China", "score": 35},
+    {"a": "North Korea", "b": "Russia", "score": 40},
+
+    {"a": "Brazil", "b": "Argentina", "score": 45},
+    {"a": "Brazil", "b": "South Africa", "score": 40},
+    {"a": "Brazil", "b": "China", "score": 25},
+    {"a": "Brazil", "b": "United States", "score": 40},
+
+    {"a": "Argentina", "b": "Brazil", "score": 45},
+    {"a": "Argentina", "b": "United Kingdom", "score": -30},
+    {"a": "Argentina", "b": "United States", "score": 15},
+
+    {"a": "Indonesia", "b": "Australia", "score": 50},
+    {"a": "Indonesia", "b": "China", "score": 20},
+
+    {"a": "South Africa", "b": "China", "score": 40},
+    {"a": "South Africa", "b": "Brazil", "score": 40}
+  ]
+}

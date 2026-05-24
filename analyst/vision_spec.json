@@ -1,0 +1,25 @@
+{
+  "name": "The Conqueror — Original Vision",
+  "summary": "Living geopolitical sim: relationships, timed events, personality AI, territorial conquest — player as one power among rivals.",
+  "focused_slice_goals": {
+    "target_weeks_to_win": [15, 25],
+    "target_weeks_to_win_easy_max": 12,
+    "target_weeks_to_win_hard_min": 28,
+    "us_alliance_win_rate_max": 0.7,
+    "us_alliance_before_week_max": 6,
+    "attack_only_win_rate_max": 0.5,
+    "player_defeat_rate_min": 0.15,
+    "china_counter_rate_min": 0.35,
+    "avg_territories_at_win": [5, 7],
+    "pressure_before_war_rate_min": 0.4
+  },
+  "vision_gaps_to_close": [
+    "Timed event resolution (not instant actions)",
+    "Reactive AI when provoked",
+    "Multi-front pressure (Pakistan–China axis)",
+    "Economy and sanctions affecting military capacity",
+    "Meaningful cost to repeated invasions",
+    "US support helpful but not a solo win condition",
+    "Clear escalation: pressure → war → invade for nuclear rivals"
+  ]
+}
